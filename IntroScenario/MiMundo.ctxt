@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=MiMundo
+comment1.params=
+comment1.target=MiMundo()
+comment2.params=
+comment2.target=void\ crearEscenario()
+comment3.params=fondo
+comment3.target=void\ drawGrid(greenfoot.GreenfootImage)
+numComments=4
