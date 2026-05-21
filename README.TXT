@@ -1,12 +1,6 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE: Juego GreenFoot
+PURPOSE OF PROJECT: Desarrollar un juego sencillo utilizando el lenguaje de programación JAVA en la plataforma de desarrollo GreenFoot
+VERSION or DATE: 20/05/2026
+HOW TO START THIS PROJECT: Descargue los archivos y abralos en GreenFoot
+AUTHORS: Javier Patzán, Julián Tayún, Emmanuel Montúfar
+USER INSTRUCTIONS: Debe descargar los archivos para ejecutarlos en GreenFoot
