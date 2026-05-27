@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=MiMundo
+comment1.params=
+comment1.target=MiMundo()
+comment10.params=
+comment10.target=void\ mostrarContador()
+comment2.params=
+comment2.target=void\ crearEscenario()
+comment3.params=fondo
+comment3.target=void\ drawGrid(greenfoot.GreenfootImage)
+comment4.params=
+comment4.target=void\ prepare()
+comment5.params=
+comment5.target=void\ stopped()
+comment6.params=
+comment6.target=void\ started()
+comment7.params=
+comment7.target=void\ gameOver()
+comment8.params=
+comment8.target=void\ act()
+comment9.params=
+comment9.target=void\ verificarVictoria()
+numComments=11
